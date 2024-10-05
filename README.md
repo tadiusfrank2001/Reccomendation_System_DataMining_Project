@@ -27,6 +27,8 @@ This wide-and-deep model combines the memorization capabilities of a linear mode
 
 +`Keras`: User-friendly interface for building neural networks.
 
++ `Jupyter`: an interactive computing environment, allowing users to create notebooks that integrate code, visualizations, and narrative text. I documented the process in various notebooks for ease of understanding and learning! :)
+
 ## Project Organization
 
 `data_preparation.ipynb`: The purpose of this notebook is to prepare the dataset we will use to build the wide-and-deep recommendation model.
