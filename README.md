@@ -13,13 +13,19 @@ This wide-and-deep model combines the memorization capabilities of a linear mode
 
 ## Technology Utilized
 
-`Python:`A high-level, versatile programming language that is widely used in data science, machine learning, and artificial intelligence due to its readability, simplicity, and large community support.
-`TensorFlow`: Framework for deep learning.
-`MLflow`: Manages machine learning workflows.
-`NumPy`: Supports numerical calculations.
-`Pandas`: Handles data manipulation and analysis.
-`Scikit-learn`: Machine learning algorithms and tools.
-`Keras`: User-friendly interface for building neural networks.
++`Python:`A high-level, versatile programming language that is widely used in data science, machine learning, and artificial intelligence due to its readability, simplicity, and large community support.
+
++`TensorFlow`: Framework for deep learning.
+
++`MLflow`: Manages machine learning workflows.
+
++`NumPy`: Supports numerical calculations.
+
++`Pandas`: Handles data manipulation and analysis.
+
++`Scikit-learn`: Machine learning algorithms and tools.
+
++`Keras`: User-friendly interface for building neural networks.
 
 ## Project Organization
 
