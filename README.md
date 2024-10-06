@@ -11,7 +11,7 @@ This wide-and-deep model combines the memorization capabilities of a linear mode
 + Machine Learning (Linear Models and Deep Learning Models)
 + Python ML & DL Libraries: TensorFlow, MLflow, NumPy, Pandas, Scikit-learn, Keras
 
-## Technology Utilized
+## Technologies Used
 
 +`Python:`A high-level, versatile programming language that is widely used in data science, machine learning, and artificial intelligence due to its readability, simplicity, and large community support.
 
