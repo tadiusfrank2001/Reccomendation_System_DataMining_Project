@@ -7,7 +7,7 @@ This wide-and-deep model combines the memorization capabilities of a linear mode
 ## Skills
 + Statistics
 + Data Science
-+ Data Analysis (Pre-processing and Cleaning ,Analysis, Visualization)
++ Data Analysis (Pre-processing and Cleaning, Analysis, Visualization)
 + Advanced Mathematical Logic (Linear Algebra, Vector Calculus)
 + Machine Learning (Linear Models and Deep Learning Models)
 + Python ML & DL Libraries: TensorFlow, MLflow, NumPy, Pandas, Scikit-learn, Keras
