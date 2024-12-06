@@ -5,7 +5,7 @@
 This wide-and-deep model combines the memorization capabilities of a linear model with the generalization capabilities of deep learning that can allow us to create a recommendation system that can predict a wider variety of choices for users. In this case, a 20 million entry movie rating and table data set from Kaggle was utlized to build a sample movie reccomendation system as a capstone project for my Data Mining course.
 
 ## Skills
-+ Statistics
++ Statistical Analysis 
 + Data Science
 + Data Analysis (Pre-processing and Cleaning, Analysis, Visualization)
 + Advanced Mathematical Logic (Linear Algebra, Vector Calculus)
